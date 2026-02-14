@@ -20,13 +20,13 @@
   </p>
 </div>
 
-# 📌 Project Cypher
+# 📌Project Cypher
 
 ## What is Cypher?
 Project Cypher is a fast Python-based information stealer. It collects data in under 3 seconds and sends everything to your Discord webhook.
 ## 👉 [Check it out now!](https://ospreypr.xyz/)
 
-## ✨ Features
+## ✨Features
 - [x] Browser passwords (all Chromium-based)
 - [x] Browser cookies
 - [x] Browser history
@@ -46,7 +46,7 @@ Project Cypher is a fast Python-based information stealer. It collects data in u
 - [x] Growtopia (new method)
 - [ ] XMR Miner (coming soon…)
 
-# 📚 Tutorials / Wiki / FAQ
+# 📚Tutorials / Wiki / FAQ
 
 ## 🛠️ How to Build the Executable
 1. Log in to the [dashboard](https://ospreypr.xyz/dashboard/) and navigate to the **Builder** page.
@@ -69,5 +69,5 @@ Project Cypher is a fast Python-based information stealer. It collects data in u
 - Confirmations may take time — wait up to **12 hours**.
 - Still missing? Contact support with your transaction ID.
 
-## ⚠️ Disclaimer
+## ⚠️Disclaimer
 This project is for **educational and research purposes only**. Any misuse, distribution, or deployment against systems without explicit permission is strictly prohibited and may violate laws in your jurisdiction. The author is not responsible for any illegal use or resulting consequences.
