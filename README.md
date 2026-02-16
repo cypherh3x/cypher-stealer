@@ -15,8 +15,8 @@
   <p align="center">
     <a href="#project-cypher">Project Cypher</a> •
     <a href="#features">Features</a> •
+    <a href="#screenshots">Screenshots</a> •
     <a href="#tutorials--wiki--faq">Tutorials</a> •
-    <a href="#disclaimer">Disclaimer</a>
   </p>
 </div>
 
@@ -45,6 +45,13 @@ Project Cypher is a fast Python-based information stealer. It collects data in u
 - [x] Minecraft session
 - [x] Growtopia (new method)
 - [ ] XMR Miner (coming soon…)
+
+# 📸Screenshots
+
+## 💬Discord Webhook Preview:
+<div align="center">
+  <img src="https://ospreypr.xyz/assets/images/CypherWebhook.png">
+</div>
 
 # 📚Tutorials / Wiki / FAQ
 
