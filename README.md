@@ -43,7 +43,12 @@ Project Cypher is a fast Python-based information stealer. It collects data in u
 - [x] Steam session
 - [x] Minecraft session
 - [x] Growtopia (new method)
-- [ ] XMR Miner (coming soon…)
+
+**Coming soon:**
+- [ ] XMR Miner
+- [ ] File binder
+- [ ] File pumper
+- [ ] Suggest anything, i will try my best to implement it!
 
 # 📸Screenshots
 
