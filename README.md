@@ -19,11 +19,12 @@
   </p>
 </div>
 
-# 📌Project Cypher
+# 📌Project Cypher ([WEBSITE!](https://ospreypr.xyz/))
 
 ## What is Cypher?
 Project Cypher is a fast Python-based information stealer. It collects data in under 3 seconds and sends everything to your Discord webhook.
 ## 👉 [Check it out now!](https://ospreypr.xyz/)
+## 👉 [Join our discord server!](https://ospreypr.xyz/discord)
 
 ## ✨Features
 - [x] Browser passwords (Chrome & Edge)
